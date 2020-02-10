@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mbrella/projects/fillit/ft_fillit.h
+stdio.h
+-
+fcntl.h
+-
+stdlib.h
+-
+zconf.h
+-
+libft/libft.h
+/Users/mbrella/projects/fillit/libft/libft.h
+
+/Users/mbrella/projects/fillit/ft_read_tetro.c
+ft_fillit.h
+/Users/mbrella/projects/fillit/ft_fillit.h
+
+/Users/mbrella/projects/fillit/libft/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+

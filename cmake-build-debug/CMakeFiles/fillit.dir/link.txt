@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/fillit.dir/main.c.o CMakeFiles/fillit.dir/ft_read_tetro.c.o CMakeFiles/fillit.dir/ft_solver.c.o CMakeFiles/fillit.dir/ft_dop_func.c.o  -o fillit ../libft/libft.a 
